@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485461031 source:c:\users\iva\desktop\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+

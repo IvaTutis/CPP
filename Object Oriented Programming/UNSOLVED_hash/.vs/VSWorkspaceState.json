@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\external",
+    "\\external\\googletest",
+    "\\external\\googletest\\googletest",
+    "\\external\\googletest\\googletest\\src",
+    "\\src",
+    "\\tests"
+  ],
+  "SelectedNode": "\\tests\\CMakeLists.txt",
+  "PreviewInSolutionExplorer": false
+}

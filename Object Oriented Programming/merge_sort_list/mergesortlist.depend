@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1480589152 source:c:\users\iva\desktop\mergesortlist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
