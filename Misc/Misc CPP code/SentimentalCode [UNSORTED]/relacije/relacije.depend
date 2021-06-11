@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1491596272 source:c:\users\iva\desktop\relacije\main.cpp
+	<iostream>
+	<climits>
+	<stdlib.h>
+
+1491595115 source:c:\users\iva\desktop\relacije\relacijee.c
+
+1491595195 source:c:\users\iva\desktop\relacije\src\relacije.cpp
+	"relacije.h"
+
+1491595195 c:\users\iva\desktop\relacije\include\relacije.h
+

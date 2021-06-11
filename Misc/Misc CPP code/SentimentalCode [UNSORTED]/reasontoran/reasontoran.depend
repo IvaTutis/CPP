@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1492971808 source:c:\users\iva\desktop\reasontoran\main.cpp
+	<iostream>
+	<cstdlib>
+	<utility>
+	<set>
+	<string>
+

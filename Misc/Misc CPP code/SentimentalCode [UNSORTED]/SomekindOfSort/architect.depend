@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477697565 source:c:\users\iva\desktop\architect\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

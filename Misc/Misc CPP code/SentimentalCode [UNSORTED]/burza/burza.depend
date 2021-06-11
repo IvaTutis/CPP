@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479548691 source:c:\users\iva\desktop\burza\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478784853 source:c:\users\iva\desktop\dobar\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

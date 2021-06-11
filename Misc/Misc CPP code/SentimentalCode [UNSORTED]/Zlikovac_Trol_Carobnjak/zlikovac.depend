@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1496772942 source:c:\users\iva\desktop\zlikovac\main.cpp
+	"zlikovac.h"
+	<cmath>
+	<iostream>
+
+1496772265 c:\users\iva\desktop\zlikovac\zlikovac.h
+	<cmath>
+	<string>
+	<list>
+
+1496772983 source:c:\users\iva\desktop\zlikovac\zlikovac.cpp
+	<cmath>
+	<string>
+	<list>
+	"zlikovac.h"
+

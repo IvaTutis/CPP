@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496703926 source:c:\users\iva\desktop\vjezba\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+

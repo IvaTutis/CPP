@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1478291213 source:c:\users\iva\desktop\crta\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	<stdlib.h>
+

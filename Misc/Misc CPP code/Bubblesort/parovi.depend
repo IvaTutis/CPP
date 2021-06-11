@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1477738970 source:c:\users\iva\desktop\parovi\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<inttypes.h>
+
